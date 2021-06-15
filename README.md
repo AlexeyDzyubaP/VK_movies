@@ -1,6 +1,8 @@
 # VK_movies
 
-Тестовое задание для стажёра в команду Core ML DSSM в рекомендациях сообществ
+В работе был использован датасет MovieLens 20M https://www.kaggle.com/grouplens/movielens-20m-dataset?select=movie.csv.
+
+**Тестовое задание для стажёра в команду Core ML DSSM в рекомендациях сообществ**
 
 На датасете MovieLens 20M сравните два подхода к построению рекомендаций:
 
